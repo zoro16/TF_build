@@ -2,7 +2,7 @@
 #+OPTIONS: H:1 num:nil toc:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
 
 
-* Set the docker image
+* Setup the docker image
   - Get the repo
     #+BEGIN_SRC BASH
       git clone git@github.com:zoro16/TF_build.git
