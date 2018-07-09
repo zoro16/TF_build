@@ -162,8 +162,8 @@
       sudo reboot
     #+END_SRC
   - Refernces 
-    [[https://github.com/NVIDIA/nvidia-docker/wiki/Deploy-on-Amazon-EC2][Deploy on Amazon EC2]]
-    [[https://devblogs.nvidia.com/gpu-containers-runtime/][Enabling GPUs in the Container Runtime Ecosystem]]
-    [[https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04][How To Install and Use Docker on Ubuntu 16.04]]
-    [[https://github.com/NVIDIA/nvidia-container-runtime][nvidia-container-runtime]]
-    [[https://github.com/NVIDIA/libnvidia-container][libnvidia-container]]
+    - [[https://github.com/NVIDIA/nvidia-docker/wiki/Deploy-on-Amazon-EC2][Deploy on Amazon EC2]]
+    - [[https://devblogs.nvidia.com/gpu-containers-runtime/][Enabling GPUs in the Container Runtime Ecosystem]]
+    - [[https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04][How To Install and Use Docker on Ubuntu 16.04]]
+    - [[https://github.com/NVIDIA/nvidia-container-runtime][nvidia-container-runtime]]
+    - [[https://github.com/NVIDIA/libnvidia-container][libnvidia-container]]
